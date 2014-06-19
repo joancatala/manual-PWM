@@ -1,0 +1,7 @@
+﻿
+
+$ xsltproc -xinclude -o curso.fo /usr/share/xml/docbook/stylesheet/docbook-xsl/fo/docbook.xsl  curso.xml
+
+
+$ fop curso.fo curso.pdf
+
