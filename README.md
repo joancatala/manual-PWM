@@ -11,7 +11,7 @@ Pots contactar-nos a grupotic@dipcas.es
 
 Adreces d'interés:
 
-Projecte Web Municipal - http://pwm.dipcas.es
-ASSISTÈNCIA TÈCNICA ALS MUNICIPIS SEPAM) - Diputació de Castelló http://sepam.dipcas.es
-The Gimp - http://www.gimp.org
-DocBook - http://www.docbook.org
+- Projecte Web Municipal - http://pwm.dipcas.es
+- Assistència tècnica als municipis (SEPAM) - Diputació de Castelló http://sepam.dipcas.es
+- The Gimp - http://www.gimp.org
+- DocBook - http://www.docbook.org
