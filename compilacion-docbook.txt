@@ -1,7 +1,20 @@
-﻿
+#######################################################################################################
+#                                                                                                     #
+#                                                                                                     #
+#                                                                                                     #
+#                               COMPILACIÓN A PDF DEL XML DOCBOOK                                     #
+#                                                                                                     #
+#                                                                                                     #
+#                                                                                                     #
+#######################################################################################################
+
+
+Preparamos el previo a la compilación mediante el fichero XML Docbook :
 
 $ xsltproc -xinclude -o curso.fo /usr/share/xml/docbook/stylesheet/docbook-xsl/fo/docbook.xsl  curso.xml
 
+
+Compilamos y generamos el PDF con la siguiente orden:
 
 $ fop curso.fo curso.pdf
 
