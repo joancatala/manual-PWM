@@ -1,4 +1,4 @@
-Repositor manual-PWM
+Repositori manual-PWM
 ==============================
 
 Benvinguts als manuals d'ajuda del Projecte Web Municipal de la Diputació de Castelló. En aquest repositori estem penjant el manual d'usuari i el manual de redactor de la web, on fàcilment podem anar editant i millorant el manual des de DocBook per a resoldre dubtes i qüestions que ens van fent els 118 ajuntaments que ja participen d'aquest projecte.
